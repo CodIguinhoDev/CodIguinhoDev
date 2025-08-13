@@ -28,10 +28,9 @@ Tenho um grande interesse por inteligência artificial e quero seguir carreira n
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![🧠 Inteligência Artificial](https://img.shields.io/badge/🧠%20Inteligência%20Artificial-%23008080.svg?style=for-the-badge&logo=ai&logoColor=white)
-![🦾 RPA](https://img.shields.io/badge/🦾%20RPA-%23FF9900.svg?style=for-the-badge&logo=rpa&logoColor=white)
 ![🤖 Machine Learning](https://img.shields.io/badge/🤖%20Machine%20Learning-%232197F3.svg?style=for-the-badge&logo=ml&logoColor=white)
 
 
