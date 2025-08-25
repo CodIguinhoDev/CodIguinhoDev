@@ -33,6 +33,9 @@ Tenho um grande interesse por inteligência artificial e quero seguir carreira n
 ![🤖 Machine Learning](https://img.shields.io/badge/🤖%20Machine%20Learning-%232197F3.svg?style=for-the-badge&logo=ml&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-ffffff?style=for-the-badge&logo=figma&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+
 
 
 
