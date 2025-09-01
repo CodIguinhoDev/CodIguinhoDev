@@ -4,7 +4,7 @@
 
 Me chamo Igor, tenho 21 anos e sou natural de São Paulo.
 Concluí o ensino médio e possuo formação técnica em automação industrial. Atualmente, curso Análise e Desenvolvimento de Sistemas na FAM. Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluções.
-Tenho um grande interesse por inteligência artificial e quero seguir carreira nessa área, contribuindo com projetos inovadores que envolvam IA e automação de processos.
+Tenho um grande interesse por inteligência artificial e quero seguir carreira nessa área, contribuindo com projetos inovadores que envolvam IA.
 
 # 📊 Status do Github
 <div align="center" width="100%" display="flex" flex-wrap="nowrap">
