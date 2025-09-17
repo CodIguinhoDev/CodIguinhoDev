@@ -11,21 +11,20 @@ Tenho grande interesse em Inteligência Artificial e quero seguir carreira nessa
 
 ---
 
-# 📊 Status do Github
+# 📊 Status do GitHub
 
-<div align="center" width="100%" display="flex" flex-wrap="nowrap">
-  
-  <img height=150px src="https://github-readme-stats.vercel.app/api?username=CodIguinhoDev&theme=gotham&hide_border=false&include_all_commits=true&count_private=true"/>
-  
-  <img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodIguinhoDev&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<div align="center">
 
-  <br/>
+<!-- Estatísticas Gerais -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=CodIguinhoDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodIguinhoDev&theme=gotham&hide_border=false"/>
-  
+<!-- Linguagens Mais Usadas -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodIguinhoDev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<!-- Streak (dias de contribuição) -->
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodIguinhoDev&theme=tokyonight&hide_border=true"/>
+
 </div>
-
----
 
 # 🚀 Stack de Tecnologias
 
