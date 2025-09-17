@@ -1,32 +1,21 @@
-# 🧑🏽‍💻 Igor Lima
+# Olá, eu sou Igor Lima
 
-**Buscando vagas de estágio ou desenvolvedor júnior**
-
-Me chamo Igor, tenho 21 anos e sou natural de São Paulo.  
-Concluí o ensino médio e possuo formação técnica em Automação Industrial.  
-Atualmente, curso Análise e Desenvolvimento de Sistemas na FAM.  
-
-Sou apaixonado por tecnologia, aprendizado contínuo e desenvolvimento de soluções.  
-Tenho grande interesse em Inteligência Artificial e quero seguir carreira nessa área, contribuindo com projetos inovadores que envolvam IA. 🚀
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por desenvolvimento web, **inteligência artificial. Estou em busca de vagas de estágio ou desenvolvedor júnior, sempre aprendendo novas tecnologias e desafios.  
 
 ---
-
-# 📊 Status do GitHub
+## 📊 Meu GitHub
 
 <div align="center">
 
-<!-- Estatísticas Gerais -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=CodIguinhoDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<!-- Linguagens Mais Usadas -->
+<!-- Estatísticas Públicas -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=CodIguinhoDev&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodIguinhoDev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-<!-- Streak (dias de contribuição) -->
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodIguinhoDev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-# 🚀 Stack de Tecnologias
+---
+
+## 🚀 Stack de Tecnologias
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,7 +31,8 @@ Tenho grande interesse em Inteligência Artificial e quero seguir carreira nessa
 
 ---
 
-## 🌐 Contato
+📫 Contato
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-limasilva)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor.lsilva3110@gmail.com)
