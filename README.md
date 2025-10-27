@@ -1,6 +1,6 @@
 ## 🧑🏽‍💻 Igor Lima
 
-Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por desenvolvimento web e inteligência artificial. Estou em busca de vagas de estágio ou desenvolvedor júnior, sempre aprendendo novas tecnologias e desafios.  
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por desenvolvimento web e inteligência artificial. Sempre buscando novos desafios.  
 
 ---
 ## 📊 Meu GitHub
