@@ -23,6 +23,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por d
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![🧠 Inteligência Artificial](https://img.shields.io/badge/🧠%20Inteligência%20Artificial-%23008080.svg?style=for-the-badge)
 ![🤖 Machine Learning](https://img.shields.io/badge/🤖%20Machine%20Learning-%232197F3.svg?style=for-the-badge)
+![👁️ Visão Computacional](https://img.shields.io/badge/👁️%20Visão%20Computacional-%235E17EB.svg?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
