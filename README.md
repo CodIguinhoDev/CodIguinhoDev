@@ -21,10 +21,8 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por d
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![🧠 Inteligência Artificial](https://img.shields.io/badge/🧠%20Inteligência%20Artificial-%23008080.svg?style=for-the-badge)
-![🤖 Machine Learning](https://img.shields.io/badge/🤖%20Machine%20Learning-%232197F3.svg?style=for-the-badge)
-![👁️ Visão Computacional](https://img.shields.io/badge/👁️%20Visão%20Computacional-%235E17EB.svg?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
