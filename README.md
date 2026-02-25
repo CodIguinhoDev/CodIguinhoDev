@@ -3,7 +3,7 @@
 Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por desenvolvimento web e inteligência artificial. Sempre buscando novos desafios.  
 
 ---
-## 📊 Meu GitHub
+## 📊 Meu GitHub:
 
 ###
 
@@ -14,7 +14,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por d
 
 ---
 
-## 🚀 Stack de Tecnologias
+## 🚀 Stack de Tecnologias:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -27,17 +27,7 @@ Olá! Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por d
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ---
 
-📫 Contato
+## 📫 Entre em contato comigo!
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-limasilva)  
-
-
-
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-###
