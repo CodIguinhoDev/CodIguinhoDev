@@ -1,7 +1,8 @@
 ## 🧑🏽‍💻 Igor Lima
 
-Olá! Sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, especialmentedesenvolvimento web.
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, especialmente por desenvolvimento web. 
 Estou sempre buscando evoluir minhas habilidades, criando projetos práticos.
+
 ---
 
 ## 🚀 Stack de Tecnologias:
