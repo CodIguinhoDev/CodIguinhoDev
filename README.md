@@ -27,11 +27,6 @@ Construo aplicações modernas, escaláveis e bem estruturadas, atuando tanto no
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Inteligência Artificial & Visão Computacional
-![👁️ Visão Computacional](https://img.shields.io/badge/👁️%20Visão%20Computacional-5E17EB?style=for-the-badge)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=python&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
 ### Ferramentas & Versionamento
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
