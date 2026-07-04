@@ -1,11 +1,10 @@
-# Igor Lima
+# Igor
 
-Olá! Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e focado em Desenvolvimento Web Full Stack.
-Construo aplicações modernas, escaláveis e bem estruturadas, atuando tanto no frontend quanto no backend. Estou sempre buscando evoluir minhas habilidades através de projetos práticos.
+Olá! Sou estudante de tecnologia, apaixonado e focado em Desenvolvimento Web Full Stack.
 
 ---
 
-# 🚀 Tecnologias & Ferramentas
+# Tecnologias & Ferramentas
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,6 +30,6 @@ Construo aplicações modernas, escaláveis e bem estruturadas, atuando tanto no
 
 ---
 
-# 📫 Contato
+# Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-limasilva)
