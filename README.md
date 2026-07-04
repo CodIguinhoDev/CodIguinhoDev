@@ -1,6 +1,4 @@
-# Igor
-
-Olá! Sou estudante de tecnologia, apaixonado e focado em Desenvolvimento Web Full Stack.
+Olá! Sou estudante de tecnologia, apaixonado e focado em Desenvolvimento Web Full Stack.Estou sempre aprimorando minhas habilidades por meio de projetos práticos e estudando novas tecnologias.
 
 ---
 
