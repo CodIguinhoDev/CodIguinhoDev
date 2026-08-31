@@ -1,0 +1,188 @@
+{
+  "widgets": [
+    {
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 0,
+        "y": 566
+      },
+      "size": {
+        "width": 424,
+        "height": 332
+      },
+      "config": {
+        "langsCount": 10,
+        "langsLayout": "list",
+        "hideLangsArr": [],
+        "hideLangs": "",
+        "animationType": "zoom-out",
+        "animationPreviewKey": 1,
+        "animationDuration": 2000
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1788196176086_3"
+    },
+    {
+      "widgetId": "footer",
+      "name": "Footer Widget",
+      "position": {
+        "x": 0,
+        "y": 1323
+      },
+      "size": {
+        "width": 800,
+        "height": 50
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6,
+      "instanceId": "widget_1788196176086_4"
+    },
+    {
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 424,
+        "y": 566
+      },
+      "size": {
+        "width": 376,
+        "height": 188
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "ts",
+          "py",
+          "jest",
+          "postman",
+          "git",
+          "prisma",
+          "mongodb",
+          "mysql",
+          "fastapi",
+          "express",
+          "nodejs",
+          "tailwind",
+          "react"
+        ],
+        "theme": "dark",
+        "perLine": 4,
+        "animationType": "zoom-in",
+        "animationPreviewKey": 7
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6,
+      "instanceId": "widget_1788196176086_5"
+    },
+    {
+      "instanceId": "widget_1788196522577",
+      "widgetId": "bio",
+      "name": "Bio Widget",
+      "position": {
+        "x": 0,
+        "y": 406
+      },
+      "size": {
+        "width": 800,
+        "height": 160
+      },
+      "config": {
+        "customBio": "Olá! Sou estudante de tecnologia, apaixonado e focado em Desenvolvimento Web Full Stack. Estou sempre aprimorando minhas habilidades por meio de projetos práticos e estudando novas tecnologias.\n",
+        "customLocation": ""
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1788197507625",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 424,
+        "y": 754
+      },
+      "size": {
+        "width": 376,
+        "height": 144
+      },
+      "config": {
+        "selectedSocials": [
+          "linkedin"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/CodIguinhoDev",
+          "linkedin": "https://www.linkedin.com/in/igor-limasilva"
+        }
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1788199010153",
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
+      "position": {
+        "x": 0,
+        "y": 903
+      },
+      "size": {
+        "width": 800,
+        "height": 420
+      },
+      "config": {
+        "accentColor": "#00ff88",
+        "customTitle": "Terminal Telemetry",
+        "secondaryColor": "#55ffff",
+        "ledColor": "#00ff88"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 11
+    },
+    {
+      "instanceId": "widget_1788199130531",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#00ff88",
+        "customTitle": "Surveillance Header",
+        "secondaryColor": "#55ffff",
+        "ledColor": "#00ff88",
+        "modeTag": "CYBER SURV",
+        "quoteText": "Um só caminho!",
+        "showTitle": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 11
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 2,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native"
+  },
+  "templateId": "terminal"
+}
